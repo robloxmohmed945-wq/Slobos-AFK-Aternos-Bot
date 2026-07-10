@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "NjxOneBlock.aternos.me",
-    "port": 11343,
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
